@@ -1,0 +1,11 @@
+*
+
+!.gitignore
+!README.md
+!package.json
+!dist/
+!dist/**
+!.github/
+!.github/**
+!img.png
+!work.png
