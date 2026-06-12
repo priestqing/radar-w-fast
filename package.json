@@ -22,6 +22,14 @@
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/priestqing/radar-w-fast"
+  },
+  "bugs": {
+    "url": "https://github.com/priestqing/radar-w-fast/issues"
+  },
+  "homepage": "https://github.com/priestqing/radar-w-fast#readme",
   "browser": "dist/radar-w-fast.umd.js",
   "keywords": [
     "radar"
